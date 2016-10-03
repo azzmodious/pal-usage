@@ -1,0 +1,21 @@
+[{
+    "icon": "fa fa-database", 
+    "name": "Database", 
+    "tag": "boom-diggity",
+    "url": "https://raw.githubusercontent.com/andrewkboyd/boom-diggity/master/boom-diggity.html",
+    "description": "Database editor", 
+    "actions": [],
+    "active": true, 
+    "content": ""
+},
+{
+    "icon": "fa fa-cube", 
+    "name": "Devices", 
+    "tag": "pal-developers",
+    "url": "https://raw.githubusercontent.com/andrewkboyd/boom-diggity/master/pal-developers.html",
+    "description": "Database editor", 
+    "actions": [], 
+    "active": false,
+    "content": ""
+}
+]
