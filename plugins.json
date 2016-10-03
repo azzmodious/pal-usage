@@ -17,5 +17,15 @@
     "actions": [], 
     "active": false,
     "content": ""
+}, 
+{
+    "icon": "fa fa-cube", 
+    "name": "Polymer", 
+    "tag": "pal-developers",
+    "url": "https://raw.githubusercontent.com/azzmodious/pal-usage/master/metrics.html",
+    "description": "Database editor", 
+    "actions": [], 
+    "active": false,
+    "content": ""
 }
 ]
