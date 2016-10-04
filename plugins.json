@@ -20,6 +20,16 @@
 }, 
 {
     "icon": "fa fa-cube", 
+    "name": "Chart", 
+    "tag": "pie-chart",
+    "url": "https://raw.githubusercontent.com/azzmodious/pal-usage/master/chart.html",
+    "description": "Database editor", 
+    "actions": [], 
+    "active": false,
+    "content": ""
+},
+{
+    "icon": "fa fa-cube", 
     "name": "Polymer", 
     "tag": "krom-tag",
     "url": "https://raw.githubusercontent.com/azzmodious/pal-usage/master/metrics.html",
